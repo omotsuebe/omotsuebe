@@ -6,10 +6,10 @@ Fullstack software engineer with years of experience in developing innovative so
 ### Skills  
 - Languages: PHP, JavaScript, TypeScript, SQL  
 - Backend: Laravel, Express.js, Node.js  
-- Frontend: Angular, Vue.js, Inertia.js  
+- Frontend: Angular, React, Vue.js, Inertia.js  
 - Database: MySQL, PostgreSQL, SQLite, MongoDB  
 - UI: Tailwind CSS, Bootstrap, Angular Material, PrimeNG  
-- Package Manager: composer, npm, yarn  
+- Package Manager: composer, npm  
 - OS: Window, Linux, MacOS  
 - Tools and Software: Postman, WSL, Docker, CI/CD, Git, Github Actions  
 - DevOps: AWS, Google Cloud  
