@@ -16,4 +16,4 @@ Fullstack software engineer with years of experience in developing innovative so
   
 
 ### Languages and Tools  
-[![My Skills](https://skillicons.dev/icons?i=php,angular,vue,laravel,js,ts,expressjs,tailwind,css,html,mysql,sqlite,mongodb,postgres,aws,gcp,docker,git,github,npm,postman,windows,linux,wordpress,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,angular,react,nextjs,vue,laravel,js,ts,expressjs,tailwind,css,html,mysql,sqlite,mongodb,postgres,aws,gcp,docker,git,github,npm,postman,windows,linux,wordpress,vite)](https://skillicons.dev)
