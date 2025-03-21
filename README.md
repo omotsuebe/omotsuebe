@@ -1,7 +1,7 @@
 ### I'm Hezekiah, a full-stack engineer  🚀  
   
 ### About Me  
-Fullstack software engineer with years of experience in developing innovative solutions. Have worked on several software projects around the world.  
+Fullstack software engineer with over eight years of experience, specializing in backend and frontend. I’ve worked on a variety of products, including CRM software, billing and invoicing systems, KPI tracking applications, and scalable RESTful APIs. 
   
 ### Skills  
 - Languages: PHP, JavaScript, TypeScript, SQL  
